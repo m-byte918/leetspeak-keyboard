@@ -1,2 +1,6 @@
 # leetspeak-keyboard
-4(_)+0 }{0+|&lt;3`/ 5(.-!|>+ +}{4+ (0|\|\/3.-+5 `/0(_).- |&lt;3`/804.-|) +0 133+5|>34|&lt;
+AutoHotkey script that when ran, converts your keyboard into leetspeak!
+
+Download AutoHotkey from here: https://autohotkey.com/download/
+
+Then double-click the script to run it!
